@@ -5,13 +5,10 @@ Features intuitive task management with stylish HSL-based UI design and localSto
 
 ---
 
-## 🚀 Features
+## 📸 Preview
 
-- Add and delete tasks
-- Mark tasks as completed
-- Reorder tasks (move up/down)
-- Persistent task storage (localStorage)
-- Clean and responsive interface using HSL color model
+![App Screenshot](./public/general.png)
+
 
 ---
 
@@ -24,9 +21,13 @@ Features intuitive task management with stylish HSL-based UI design and localSto
 
 ---
 
-## 📸 Preview
+## 🚀 Features
 
-![App Screenshot](./public/general.png)
+- Add and delete tasks
+- Mark tasks as completed
+- Reorder tasks (move up/down)
+- Persistent task storage (localStorage)
+- Clean and responsive interface using HSL color model
 
 ---
 
