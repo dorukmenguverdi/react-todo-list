@@ -26,7 +26,7 @@ Features intuitive task management with stylish HSL-based UI design and localSto
 
 ## 📸 Preview
 
-![App Screenshot](general.png)
+![App Screenshot](./public/general.png)
 
 ---
 
