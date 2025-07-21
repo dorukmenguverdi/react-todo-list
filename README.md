@@ -12,15 +12,6 @@ Features intuitive task management with stylish HSL-based UI design and localSto
 
 ---
 
-## 🛠️ Built With
-
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- JavaScript (ES6+)
-- HTML & CSS (custom design)
-
----
-
 ## 🚀 Features
 
 - Add and delete tasks
@@ -28,6 +19,16 @@ Features intuitive task management with stylish HSL-based UI design and localSto
 - Reorder tasks (move up/down)
 - Persistent task storage (localStorage)
 - Clean and responsive interface using HSL color model
+
+---
+
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- JavaScript (ES6+)
+- HTML & CSS (custom design)
 
 ---
 
